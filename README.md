@@ -6,10 +6,6 @@
    </head>
 <body>
 
-<p align="center">
-  <img src="DevNavigator.png" alt="Logo de DevNavigator">
-</p>
-
 <h1>DevNavigator 💻🖱️💙</h1>
 
 <h2>Descripción del Proyecto 🤓</h2>
